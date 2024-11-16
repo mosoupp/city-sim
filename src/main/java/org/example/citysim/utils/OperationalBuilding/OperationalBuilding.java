@@ -5,6 +5,6 @@ import org.example.citysim.utils.Building;
 public abstract class OperationalBuilding extends Building {
     protected int minWorkerCount;
     protected int maxWorkerCount;
-    private int workerCount;
+    protected int workerCount;
 
 }
