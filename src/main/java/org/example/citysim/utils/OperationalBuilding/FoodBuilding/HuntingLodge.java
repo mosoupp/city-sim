@@ -1,7 +1,7 @@
 package org.example.citysim.utils.OperationalBuilding.FoodBuilding;
 
 /**
- * A Hunting Lodge, a building which produces food
+ * class Hunting Lodge, a building which produces food
  */
 public class HuntingLodge extends FoodBuilding {
     /**
