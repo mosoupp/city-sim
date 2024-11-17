@@ -1,6 +1,6 @@
 package org.example.citysim.utils.OperationalBuilding.currencybuilding;
 /**
- * class Port, a building which produces Food
+ * class Port, a building which produces Currency
  */
 public class Port extends CurrencyBuilding{
     /**
