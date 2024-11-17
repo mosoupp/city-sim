@@ -1,4 +1,4 @@
-module org.example.citysim2 {
+module org.example.citysim {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
