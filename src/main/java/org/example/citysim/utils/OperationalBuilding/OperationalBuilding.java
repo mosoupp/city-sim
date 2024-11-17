@@ -7,4 +7,6 @@ public abstract class OperationalBuilding extends Building {
     protected int maxWorkerCount;
     protected int workerCount;
 
+
+
 }

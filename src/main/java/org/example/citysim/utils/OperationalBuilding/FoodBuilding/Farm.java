@@ -7,6 +7,9 @@ public class Farm extends FoodBuilding{
 
 
     }
+    public Farm(String name) {
+        System.out.println(name);
+    }
     public void setFoodProdRate(int testVal) {
         this.foodProdRate = testVal;
     }
