@@ -1,7 +1,7 @@
 package org.example.citysim.utils.OperationalBuilding.FoodBuilding;
 
 /**
- * class Farm, a building which produces
+ * class Farm, a building which produces Food
  */
 public class Farm extends FoodBuilding{
     /**
@@ -11,7 +11,7 @@ public class Farm extends FoodBuilding{
             + "which produced food";
 
     /**
-     * Constructs HuntingLodge object without any variables initialized
+     * Constructs Farm object without any variables initialized
      */
     public Farm() {
     }
